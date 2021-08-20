@@ -1,0 +1,205 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.7f1c1 (98d1c84f5ffb) revision 10015176'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1110; Version 2009; 64bit' Language: 'zh' Physical Memory: 8101 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity\2020.3.7f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UnityProject/动漫游戏设计
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+33667
+Successfully changed project path to: D:/UnityProject/动漫游戏设计
+D:/UnityProject/动漫游戏设计
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1c1 (98d1c84f5ffb)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity/2020.3.7f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UnityProject/动漫游戏设计/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d12)
+    Vendor:   
+    VRAM:     1983 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity/2020.3.7f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity/2020.3.7f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity/2020.3.7f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56024
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity/2020.3.7f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001464 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.174 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.132 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1407 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.8 MB.
+System memory in use after: 71.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1851.
+Total: 2.153600 ms (FindLiveObjects: 0.157200 ms CreateObjectMapping: 0.049800 ms MarkObjects: 1.860600 ms  DeleteObjects: 0.084800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Animations/Animations/Ninja@Attack1.FBX
+  artifactKey: Guid(84737158b8acdfd46a09c0013aadaca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@Attack1.FBX using Guid(84737158b8acdfd46a09c0013aadaca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b421f22d727f584b2ec3e57ae33f6f3') in 0.319679 seconds
+  Import took 0.323485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Animations/Animations/Ninja@DashForward.FBX
+  artifactKey: Guid(60eaf5c134a52dc46b2b20f8f3cccee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@DashForward.FBX using Guid(60eaf5c134a52dc46b2b20f8f3cccee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d2863fc27fa01c7eee9f38e0d761a21') in 0.048391 seconds
+  Import took 0.051988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Animations/Animations/Ninja@Death.FBX
+  artifactKey: Guid(fbd18f93e83bf7f44b01aa9d113fb370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@Death.FBX using Guid(fbd18f93e83bf7f44b01aa9d113fb370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2128200389ea1ec42805a06ae3791c6') in 0.055983 seconds
+  Import took 0.061361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Animations/Animations/Ninja@DashForward_S.FBX
+  artifactKey: Guid(34a402fc5b775644d82493b9b748be1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@DashForward_S.FBX using Guid(34a402fc5b775644d82493b9b748be1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc277a538a097b8b92cd2097f62d89a6') in 0.081876 seconds
+  Import took 0.087070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001256 seconds.
+  path: Assets/Animations/Animations/Ninja@Jump.FBX
+  artifactKey: Guid(4b1254f7092f0e2408c2ea3963d156a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@Jump.FBX using Guid(4b1254f7092f0e2408c2ea3963d156a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a1df2521e3992c0bbba80270256713') in 0.052755 seconds
+  Import took 0.058018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Animations/Animations/Ninja@DashRight_S.FBX
+  artifactKey: Guid(d2548b840e9969849a5e367f7cb9d6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@DashRight_S.FBX using Guid(d2548b840e9969849a5e367f7cb9d6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e36aed9ace4f30a837bc3bf0f88cf8e') in 0.042310 seconds
+  Import took 0.047632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Animations/Animations/Ninja@DashBackward_S.FBX
+  artifactKey: Guid(61ed583d2853f674a8ba46f4d8aac22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@DashBackward_S.FBX using Guid(61ed583d2853f674a8ba46f4d8aac22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dda372dad1f87d0a4173eb913de898b3') in 0.049642 seconds
+  Import took 0.054423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000642 seconds.
+  path: Assets/Animations/Animations/Ninja@DashRight.FBX
+  artifactKey: Guid(56b16b8e285d27c46a5cd6559a123efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@DashRight.FBX using Guid(56b16b8e285d27c46a5cd6559a123efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16fa6cca0cbe526930e06ac1db9d0dc2') in 0.047778 seconds
+  Import took 0.052477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Animations/Animations/Ninja@Attack1_S.FBX
+  artifactKey: Guid(8ee71ee288ca0c44b987fd13c569fd30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@Attack1_S.FBX using Guid(8ee71ee288ca0c44b987fd13c569fd30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f746917418eeb2b9d6cb4599ecec9d4') in 0.062992 seconds
+  Import took 0.071027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000632 seconds.
+  path: Assets/Animations/Animations/Ninja@BlockHitReact.FBX
+  artifactKey: Guid(0faf26fb2c9573247b453a34cb0fc863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@BlockHitReact.FBX using Guid(0faf26fb2c9573247b453a34cb0fc863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bbee9fc24e1b3bb9a558a33736481dc') in 0.050422 seconds
+  Import took 0.059896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Animations/Animations/Ninja@DashLeft_S.FBX
+  artifactKey: Guid(84f37df517d8fac4ba8c422c425563b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@DashLeft_S.FBX using Guid(84f37df517d8fac4ba8c422c425563b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1841d9dd973ba93f99907cbfa6266eb7') in 0.041962 seconds
+  Import took 0.046950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000554 seconds.
+  path: Assets/Animations/Animations
+  artifactKey: Guid(caa824262274ad04f9da96b26856b3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations using Guid(caa824262274ad04f9da96b26856b3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6385cb82401264f6eed9dff5944904d7') in 0.011387 seconds
+  Import took 0.018717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Animations/Animations/Ninja@DashBackward.FBX
+  artifactKey: Guid(020f3d3e0c26c6a4b8cac594a4c9e642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@DashBackward.FBX using Guid(020f3d3e0c26c6a4b8cac594a4c9e642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a991e554d86509cc19bada31954e95af') in 0.055885 seconds
+  Import took 0.060557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Animations/Animations/Ninja@Block.FBX
+  artifactKey: Guid(c74b27fffd4d5494ba4fec5388bbac3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@Block.FBX using Guid(c74b27fffd4d5494ba4fec5388bbac3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3449fdd2a532e9ea6c9426ea133a17b') in 0.050933 seconds
+  Import took 0.056985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Animations/Animations/Ninja@Jump_S.FBX
+  artifactKey: Guid(2c09e782d3065fc44ae6b4e075d30648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@Jump_S.FBX using Guid(2c09e782d3065fc44ae6b4e075d30648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5ec53cc327dfabf1b21888374c4d299') in 0.053751 seconds
+  Import took 0.060618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Animations/Animations/Ninja@Idle.FBX
+  artifactKey: Guid(a178bb221d265b9438121289a4c2f10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@Idle.FBX using Guid(a178bb221d265b9438121289a4c2f10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1ff52d53faf7a0e68d96537133f5d5') in 0.053787 seconds
+  Import took 0.059403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001810 seconds.
+  path: Assets/Animations/Animations/Ninja@DashLeft.FBX
+  artifactKey: Guid(cdcd2ebb69261c14d9ee21dc770d60cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animations/Ninja@DashLeft.FBX using Guid(cdcd2ebb69261c14d9ee21dc770d60cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68cfdd9a389bc2771d8ac9e4b5a349b') in 0.051203 seconds
+  Import took 0.055020 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
